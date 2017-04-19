@@ -1,0 +1,6 @@
+/Users/denyskrysko/Projects/QA_Assignment4/QA_Assignment4/bin/Debug/QA_Assignment4.exe
+/Users/denyskrysko/Projects/QA_Assignment4/QA_Assignment4/bin/Debug/QA_Assignment4.pdb
+/Users/denyskrysko/Projects/QA_Assignment4/QA_Assignment4/obj/x86/Debug/QA_Assignment4.csproj.CoreCompileInputs.cache
+/Users/denyskrysko/Projects/QA_Assignment4/QA_Assignment4/obj/x86/Debug/QA_Assignment4.exe
+/Users/denyskrysko/Projects/QA_Assignment4/QA_Assignment4/obj/x86/Debug/QA_Assignment4.pdb
+/Users/denyskrysko/Projects/QA_Assignment4/QA_Assignment4/obj/x86/Debug/QA_Assignment4.csprojResolveAssemblyReference.cache

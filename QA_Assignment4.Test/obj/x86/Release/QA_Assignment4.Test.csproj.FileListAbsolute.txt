@@ -1,0 +1,5 @@
+/Users/denyskrysko/Projects/QA_Assignment4/QA_Assignment4.Test/bin/Release/QA_Assignment4.Test.exe
+/Users/denyskrysko/Projects/QA_Assignment4/QA_Assignment4.Test/bin/Release/nunit.framework.dll
+/Users/denyskrysko/Projects/QA_Assignment4/QA_Assignment4.Test/bin/Release/nunit.framework.xml
+/Users/denyskrysko/Projects/QA_Assignment4/QA_Assignment4.Test/obj/x86/Release/QA_Assignment4.Test.csproj.CoreCompileInputs.cache
+/Users/denyskrysko/Projects/QA_Assignment4/QA_Assignment4.Test/obj/x86/Release/QA_Assignment4.Test.exe

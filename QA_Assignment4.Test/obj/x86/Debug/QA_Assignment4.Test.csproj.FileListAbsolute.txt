@@ -1,0 +1,8 @@
+/Users/denyskrysko/Projects/QA_Assignment4/QA_Assignment4.Test/bin/Debug/QA_Assignment4.Test.exe
+/Users/denyskrysko/Projects/QA_Assignment4/QA_Assignment4.Test/bin/Debug/QA_Assignment4.Test.pdb
+/Users/denyskrysko/Projects/QA_Assignment4/QA_Assignment4.Test/bin/Debug/nunit.framework.dll
+/Users/denyskrysko/Projects/QA_Assignment4/QA_Assignment4.Test/bin/Debug/nunit.framework.xml
+/Users/denyskrysko/Projects/QA_Assignment4/QA_Assignment4.Test/obj/x86/Debug/QA_Assignment4.Test.csproj.CoreCompileInputs.cache
+/Users/denyskrysko/Projects/QA_Assignment4/QA_Assignment4.Test/obj/x86/Debug/QA_Assignment4.Test.exe
+/Users/denyskrysko/Projects/QA_Assignment4/QA_Assignment4.Test/obj/x86/Debug/QA_Assignment4.Test.pdb
+/Users/denyskrysko/Projects/QA_Assignment4/QA_Assignment4.Test/obj/x86/Debug/QA_Assignment4.Test.csprojResolveAssemblyReference.cache

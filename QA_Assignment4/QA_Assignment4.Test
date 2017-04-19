@@ -1,0 +1,10 @@
+﻿using System;
+namespace QA_Assignment4
+{
+	public class QA_Assignment4
+	{
+		public QA_Assignment4()
+		{
+		}
+	}
+}
